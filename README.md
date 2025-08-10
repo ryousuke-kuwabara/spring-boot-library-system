@@ -9,3 +9,12 @@
 * 書籍一覧検索（タイトル、著者、ジャンル）
 * 貸出・返却処理
 * ユーザー情報による機能制御
+
+## クラス設計図
+[クラス設計図](docs/class-diagram.md)
+
+## ER図
+[ER図](docs/er-database.md)
+
+## 画面遷移図
+[画面遷移図](docs/page-transition.md)
